@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/yuissaying/yuissaying.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuissaying/yuissaying.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 欢迎来到宇哥的话
+2020年1月24日00:32
+以前啊
+总是希望自己对别人好别人也能这样对我
+后来就不奢望了.
+就是太懂事，懂别人的事.
+2019年12月31日 21:18
+总有一天活成你喜欢的样子. 
+2019年12月22日 20:30
+生日快乐，和你认识快三年了，也逐渐因为你变得沙雕，生日快乐买买@Gray  
+2019年12月12日 22:00
+看哪... 你不珍惜的东西总有人会当做珍宝. 
+2019年12月10日 22:00
+在你说别人丑之前先拿镜子照照自己长什么样（照片里的人很漂亮不是说她的谢谢）
+2019年12月9日 23:04
+脸上挂着笑容，心却在颤抖.
+嘴上在逞强，心却在滴血. 
+2019年12月8日 12:18
+你每天要骗自己多少次才能安心睡觉
+2019年12月7日 22:10
+你的东西我没有扔 而是找个盒子装起来了
+你我也没有忘 只是埋在心底了
+我也不会再爱你了
+希望我虽不是最好的却是你再也遇不到的
+2019年12月6日 22:44
+得失离散总又会周而复始..
+哈哈哈最好玩的是我们连分手都没有说就彼此默契地离开了. 
+2018年11月11日 12:22
+可能我不配喜欢你趴
